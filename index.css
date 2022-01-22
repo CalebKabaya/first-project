@@ -5,12 +5,15 @@
 }
 body{
     font-family: 'poppins',sans-serif;
+	height: 100%;
+
 }
 /*---------navbar------*/
 .container{
     max-width: 1600px;
 	margin: auto;
 	padding-right: 25px;
+
 }
 .navbar{
     display: flex; 
@@ -29,10 +32,13 @@ nav ul li {
     display:inline-block;  
 	margin-right:20px;
     font-size: 24px;
-	color: rgb(0, 0, 0);
+	color: black;
 	padding: 0 20px;
+	font-weight: bold;
 	margin: 0%;
-	font-weight: bolder;
+}
+#menuitems a{
+	color: black;
 }
 /*-----logo-----*/
 .col-7{
@@ -47,7 +53,8 @@ a{
 	color:#555; 
 }
 p{
-	color: #555;
+	color: rgb(0, 0, 0);
+	font-weight: 600px;
 }
 
 .row{
@@ -60,9 +67,11 @@ p{
 	flex-basis: 50%;
 	min-width: 300px;
 }
+
 .col-2 img {
-	max-width: 100%;
-	padding: 60px 0; 
+	max-width: 80%;
+	padding: 0px 0; 
+	background-size: 100%;
 	
 }
 .col-2 h1{
@@ -101,10 +110,13 @@ p{
 header .logo{
     background: radial-gradient(#fff,#F6B400);
 }
+/*---------services---*/
+
 .small-container{
 	margin: auto;
 	padding-left: 30px;
 	padding-right: 30px;
+	padding-top: 60px;
 } 
 .col-3{
    flex: 1;
@@ -123,14 +135,14 @@ header .logo{
 	 transition: transfom.3s;
 }
 .col-3 p{
-	font-size: 12px;
+	font-size: 20px;
 	margin: 12px 0;
 	color: #777;
 }
 .col-3 h3{
 	font-weight: 600;
 	color: #555;
-	font-size: 16px;
+	font-size: 20px;
 }
 .col-3 img{
 	width: 50px;
@@ -138,6 +150,12 @@ header .logo{
 	border-radius: 50%;
 }
 /*--------our menu-------*/
+.small-container{
+	margin: auto;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 60px;
+}
 .title{
     text-align: center;
 	margin: 0 auto 80px;
@@ -147,7 +165,7 @@ header .logo{
 	letter-spacing: 1px;
 	word-spacing: inherit;
 	display: flex;
-	padding: 50px;
+	padding: 30px;
 	
 }
 .title h2 {
