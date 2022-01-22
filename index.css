@@ -231,6 +231,11 @@ h3{
 .email{
 	display: flex;
 }
+.email h3{
+	background: #F6B400;
+	color: #fff;
+}
+
 
 
 
