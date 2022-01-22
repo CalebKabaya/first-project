@@ -303,6 +303,7 @@ h3{
 }
 .container-o{
     background-color:#E1EBE6;
+	padding-bottom: 250px;
 
 }
 
@@ -328,6 +329,8 @@ h3{
 .container-m{
     background-color: #F6B400;
 	height: 900px;
+	padding-bottom: 400px;
+
 }
 .col-6 .logos{
     float: left;
