@@ -171,9 +171,10 @@ header .logo{
 	padding: 30px;
 	
 }
-.title h2 {
+
+.title  {
 	font-size:30px;
-	color: black;
+	font-weight: bold;
 }
 
 .col-4 {
