@@ -251,10 +251,13 @@ h3{
 }
 .col-4 p{
     text-align: center;
+	margin-top: 30px;
 }
 
 .col-4 .icon{
-	display: flex
+	display: flex;
+	margin-top: 60px;
+	margin-bottom: -20px;
 
 }
 .icon h3{
@@ -268,9 +271,36 @@ h3{
  .icon .fa{
 	font-size: 35px;
 	text-align: right;
-	border-radius: 15px;
-	line-height:.35em;
-	padding: 40px;
+	border-radius: 25px;
+	line-height:.15em;
+	background-color: #E1EBE6;
+	padding-left: 20px;
+	padding-top: 55px;
+	padding-bottom: 50px;
+	padding-right: 36px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 30px;
+	margin-top: 15px;
+
+}
+.maths{
+	display: flex;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: right;
+	word-spacing: 10px;
+	border-radius: 25px;
+	line-height:.15em;
+	background-color: #E1EBE6;
+	padding-left: 20px;
+	padding-top: 15px;
+	padding-bottom: 50px;
+	padding-right: 36px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 30px;
+	margin-top: 15px;
 
 }
 /*--------offer-------*/
@@ -411,12 +441,19 @@ h3{
 	color: #fff;
 }
 .copyrigt{
-	display: flex;
-	text-align: justify;
-	line-height: 40px;
-	padding: 10px;
+	padding-bottom: 20px;
+	margin-top: 30px;
+
 
 }
-
+.cp{
+	text-align: left;
+}
+.icon-s{
+	text-align: center;
+}
+.desing{
+	text-align: right;
+}
 
 
