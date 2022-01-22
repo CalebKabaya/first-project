@@ -191,6 +191,30 @@ h3{
     color: rgb(247, 161, 3);
 
 }
+.col-5 p{
+	padding: 50px;
+	margin: 25px 0;
+
+
+}
+.dots{
+	display: flex;
+}
+.dot {
+	height: 25px;
+	width: 25px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+	padding: 10px 0;
+	margin: 25px 0;
+	margin-right: 40px
+  }
+  .dot1 .dot{
+	  background:brown;
+
+  }
+ 
 .col-5 img {
 	max-width: 50%;
 	float: right;
@@ -207,6 +231,8 @@ h3{
 	line-height: 60px;
 	margin: 25px 0;
     color: black;
+	padding: 150px 0; 
+
 }
 .col-6 img {
 	max-width: 100%;
@@ -230,7 +256,7 @@ h3{
     height:400px;
     display: flex;
     justify-content: left;
-    padding: 150px 0; 
+    padding: 70px 0; 
 
 
 }
