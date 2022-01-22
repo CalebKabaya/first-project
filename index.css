@@ -212,11 +212,17 @@ h3{
 	max-width: 100%;
 	padding: 60px 0; 
     width: 1000px;
+
+}
+.col-8 img{
+	max-width: 100%;
+	width: 300px;
 }
 .container-m{
     background-color: #F6B400;
+	height: 900px;
 }
-.logos{
+.col-6 .logos{
     float: left;
     background-size:90px 30px;
     width:400px;
