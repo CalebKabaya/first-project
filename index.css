@@ -215,6 +215,18 @@ h3{
 
 
 }
+/*--------footer-------*/
+.footer-col-2 h2{
+	color: black;
+}
+.footer-col-2 ul{
+	list-style-type: none;
+	text-align: center;
+	line-height: 40px;
+
+}
+
+
 
 
 
