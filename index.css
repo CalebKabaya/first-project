@@ -110,6 +110,10 @@ p{
 header .logo{
     background: radial-gradient(#fff,#F6B400);
 }
+.logo2{
+	padding-left: 100px;
+	margin-left: 0px;
+}
 /*---------services---*/
 
 .small-container{
@@ -283,9 +287,19 @@ h3{
 
  }
 .col-5 img {
+	display: flex; 
 	max-width: 50%;
 	float: right;
-    padding: 60px 0;  
+    padding: 30px 0;
+}
+.img1{
+	z-index: 2;
+	position: absolute;
+
+}
+.img2{
+	z-index: 1;
+
 }
 .container-o{
     background-color:#E1EBE6;
