@@ -43,6 +43,12 @@ nav ul li {
 /*-----logo-----*/
 .col-7{
 	display:inline-block; 
+	font-size: 50px;
+	font-weight: bolder;
+	font-family: 'Lobster Two';
+	padding: 2px 4px;
+	margin-left:-3px;
+
 }
 .col-7 h2{
 	color: black;
@@ -247,23 +253,31 @@ h3{
 	line-height: 40px;
 	margin: 25px 0;
     color: black;
+	padding-left: 180px;
 }
 .col-5 h3{
 	font-size:50px;
 	line-height: 20px;
 	margin: 25px 0;
     color: rgb(247, 161, 3);
+	padding-left: 180px;
+
+
 
 }
 .col-5 p{
 	padding: 50px;
 	margin: 25px 0;
+	padding-left: 180px;
+
 
 
 }
 .dots{
 	display: flex;
 	text-align: center;
+	padding-left: 180px;
+
 }
 .dot {
 	height: 25px;
