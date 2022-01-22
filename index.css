@@ -18,7 +18,9 @@ body{
 .navbar{
     display: flex; 
     align-items: center;
+	margin: auto;
 	padding: 20px ;
+	justify-content: space-around;
 }
 nav{
 	flex:1;
@@ -36,10 +38,32 @@ nav ul li {
 	padding: 0 20px;
 	font-weight: bold;
 	margin: 0%;
+	text-decoration: none;
+	position: relative;
 }
 #menuitems a{
 	color: black;
+
 }
+#menuitems a:hover{
+	color: tomato;
+	transition: .9s;
+}
+#menuitems a:after{
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: -10px;
+	width: 0;
+	height: 5px;
+	background-color: rgba(253, 125, 5, 0.9);
+	-webkit-transition:transform 250ms;
+	transition: transform 250ms;
+}
+#menuitems a:hover:after{
+	width: 100%;
+}
+
 /*-----logo-----*/
 .col-7{
 	display:inline-block; 
