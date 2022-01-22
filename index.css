@@ -225,6 +225,12 @@ h3{
 	line-height: 40px;
 
 }
+.footer-col-3 h2{ 
+	color: black;
+}
+.email{
+	display: flex;
+}
 
 
 
