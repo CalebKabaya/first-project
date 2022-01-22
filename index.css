@@ -168,7 +168,6 @@ header .logo{
     color: rgb(248, 8, 8);
 	letter-spacing: 1px;
 	word-spacing: inherit;
-	display: flex;
 	padding: 30px;
 	
 }
@@ -176,10 +175,7 @@ header .logo{
 	font-size:30px;
 	color: black;
 }
-.title h3{
-	font-size:30px;
-	color:rgb(255, 175, 2);
-}
+
 .col-4 {
     flex: 1;
     border: 1px solid #666;
