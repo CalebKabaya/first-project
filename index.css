@@ -65,12 +65,16 @@ nav ul li {
 }
 
 /*-----logo-----*/
+.logo{
+	margin-left: -120px;
+	padding-left: -160px;}
 .col-7{
 	display:inline-block; 
 	font-size: 50px;
 	font-weight: bolder;
 	font-family: 'Lobster Two';
-	margin-left:-3px;
+	padding-right: -30px;
+
 
 
 }
@@ -82,7 +86,7 @@ nav ul li {
 .col-7 h2{
 	/*color: black;*/
 	font-family: 'Lobster';
-	background-image: linear-gradient(90deg,rgb(0, 0, 0) 0% 50%,rgb(255, 208, 0) 50% 100%);
+	background-image: linear-gradient(90deg,rgb(0, 0, 0) 0% 52%,rgb(255, 208, 0) 52% 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
@@ -367,7 +371,6 @@ h3{
 }
 .dots{
 	display: flex;
-	text-align: right;
 	padding-left: 180px;
 
 
@@ -383,7 +386,7 @@ h3{
 	margin-right: 40px;
   }
   .dot1 .dot{
-	  background:brown;
+	  background:rgb(245, 100, 16);
 
   }
 .arrow{
@@ -395,6 +398,7 @@ h3{
 	padding: 10px 0;
 	margin: 25px 0;
 	margin-right: 40px;
+	padding-bottom: 20px;
 	
 
  }
