@@ -80,7 +80,11 @@ nav ul li {
 }
 */
 .col-7 h2{
-	color: black;
+	/*color: black;*/
+	font-family: 'Lobster';
+	background-image: linear-gradient(90deg,rgb(0, 0, 0) 0% 50%,rgb(255, 208, 0) 50% 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 
 a{
