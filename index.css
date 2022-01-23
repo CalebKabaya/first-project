@@ -372,7 +372,7 @@ h3{
 }
 .dots{
 	display: flex;
-	padding-left: 180px;
+	padding-left: 210px;
 
 
 }
@@ -390,7 +390,7 @@ h3{
 	  background:rgb(245, 100, 16);
 
   }
-.arrow{
+.dots {
 	color: rgb(247, 161, 3);
     font-size: 170px;
 	font-weight: bolder;
@@ -400,7 +400,10 @@ h3{
 	margin: 25px 0;
 	margin-right: 40px;
 	padding-bottom: 20px;
-	
+	content: "\2192";
+	padding-left: 210px;
+
+
 
  }
 .col-5 img {
