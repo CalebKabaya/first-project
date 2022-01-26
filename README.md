@@ -64,8 +64,6 @@ SOFTWARE.
 
 ## Authors Info
 
-Slack Profile - [Caleb kabaya](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
-
 Linked - Caleb Kabaya(hhttps://www.linkedin.com/in/caleb-kabaya-167676195/)
 
 Email  -  (calebkanaya7@gmail.com)
