@@ -66,6 +66,6 @@ SOFTWARE.
 
 Linked - Caleb Kabaya(hhttps://www.linkedin.com/in/caleb-kabaya-167676195/)
 
-Email  -  (calebkanaya7@gmail.com)
+Email  -  (calebkabaya7@gmail.com)
 
 [Go Back to the top](#portfolio)
